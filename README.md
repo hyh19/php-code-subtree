@@ -3,11 +3,11 @@
 ## `git remote`
 
 ```bash
-git remote add github git@github.com:mrhuangyuhui/php-codes.git
+git remote add github git@github.com:mrhuangyuhui/php-code-subtree.git
 ```
 
 ```bash
-git push github
+git push -u origin master
 ```
 
 ## `git subtree`
